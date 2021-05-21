@@ -1,0 +1,2 @@
+# SPPOT
+Smart Plant Pot
